@@ -1,4 +1,4 @@
 FinalAppIdeas
 =============
 
-Final App Ideas
+Discussion on final app project
